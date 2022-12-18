@@ -1,0 +1,9 @@
+mean:
+
+standart: 152.7206871868289
+map-reduce: 152.72068718682894
+
+variance:
+
+standart: 57672.84569843359
+map-reduce: 57672.84569843332
